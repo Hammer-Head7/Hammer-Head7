@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hammer-Head7 
-- 👀 I’m interested in ...Blender&Unity&Arduino&VisualStudio
+- 👀 I’m interested in ...Blender・Arduino・Unity・UE5・VSCODE(C++)
 - 🌱 I’m currently learning ...Blender
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...@gmail.com
 
 <!---
